@@ -1,1 +1,1 @@
-# Color-Flipper
+# Vanilla JS mini projects
